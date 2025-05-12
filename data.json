@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Crocodile Amethyst",
+        "img": "https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/05/6170_Hermes_Birkin_35_Amethyst_XL_2F_S.jpg",
+        "prix": 10000000,
+        "stock": 2
+    },
+    {
+        "title": " Togo Vert Chartreuse",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/05/T2BGUU6G0QB4HO9R_Hermes_Birkin_30_Vert_Chartreuse_L_2F_S.jpg" ,
+        "prix": 1000000,
+        "stock": 6
+    },
+    {
+        "title": " Rose Confetti",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/05/6139_Hermes_Birkin_30_Rose_Confetti_L_2F_S.jpg" ,
+        "prix": 12000,
+        "stock": 3
+    },
+    {
+        "title": "Rose Dragée",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/04/YAS6HHFU14ZU1KU0_Hermes_Birkin_30_Rose_Dragee_L_2F_S.jpg" ,
+        "prix": 150000,
+        "stock": 4
+    },
+    {
+        "title": "Clémence Chocolat",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2024/12/5622_Hermes_Birkin_40_Chocolate_XL_2F_S.jpg" ,
+        "prix": 110000,
+        "stock": 2
+    },
+    {
+        "title": "Jaune d'Or",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/02/QQFKTUQ6PSHXOS95_Hermes_Birkin_30_RougeVif_L_2F_S-1536x1536.jpg" ,
+        "prix": 14400,
+        "stock": 9
+    },
+    {
+        "title": "Rouge Casaque",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2023/05/3096_Hermes_Birkin_30_RougeVif_L_2F_S.jpg" ,
+        "prix": 135000,
+        "stock": 7
+    },
+    {
+        "title": " Orange Poppy",
+        "img": "https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2025/05/6117_Hermes_Birkin_35_Orange_Poppy_Ecru_XL_2F_S.jpg",
+        "prix": 211000,
+        "stock": 4
+    },
+    {
+        "title": "Togo Béton",
+        "img": "https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2024/10/5332_Hermes_Birkin_25_Beton_M_2F_S.jpg",
+        "prix": 200000,
+        "stock": 10
+    },
+    {
+        "title": "Crocodile Mimosa",
+        "img":"https://pub-4dbfc253526e4886afcf59000520da9c.r2.dev/2024/11/5525_Hermes_Birkin_35_Mimosa_XL_2F_S.jpg" ,
+        "prix": 4000000,
+        "stock": 1
+    } 
+]
